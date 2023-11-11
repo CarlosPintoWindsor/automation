@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "16C82C5BF842619B849D7F14F0C03202",
+  "keywordClasses": [
+    {
+      "name": "com.Tools",
+      "keywordMethods": [
+        {
+          "name": "testClick",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

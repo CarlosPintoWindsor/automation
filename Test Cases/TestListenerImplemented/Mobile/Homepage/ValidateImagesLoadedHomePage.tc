@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateImagesLoadedHomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd7ad226-08a4-4d5a-9feb-0654d1aa6ad1</testCaseGuid>
+</TestCaseEntity>

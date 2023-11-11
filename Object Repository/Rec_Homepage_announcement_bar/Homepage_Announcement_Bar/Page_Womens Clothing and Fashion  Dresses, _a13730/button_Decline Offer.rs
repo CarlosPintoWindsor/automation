@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Decline Offer</name>
+   <tag></tag>
+   <elementGuidId>678fa9ab-6cb0-4499-bbf8-faf63eefcf8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bx-element-2050192-YixBwAH > button.bx-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='reset']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b7e91eef-0347-4ec2-9839-aecef8a12608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>reset</value>
+      <webElementGuid>34a222b5-9788-4e12-8eb6-7280aede46fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx-button</value>
+      <webElementGuid>49dc9665-1d79-4e11-a2ee-0909336288c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>adeed5d4-e303-4cb8-879b-aa99776a6f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Decline Offer close the dialog</value>
+      <webElementGuid>dc187bc5-bda9-4c77-bd95-1133e1f25d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Decline Offer</value>
+      <webElementGuid>77d57473-4673-49f9-8605-a77cd623c0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bx-element-2050192-YixBwAH&quot;)/button[@class=&quot;bx-button&quot;]</value>
+      <webElementGuid>45cc5334-5cc4-47c3-b106-952456c4e368</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='reset']</value>
+      <webElementGuid>aef2c5eb-d6e3-4636-81a1-8e3bfb13f6c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bx-element-2050192-YixBwAH']/button</value>
+      <webElementGuid>fb9cefa3-a263-42cb-a06d-8b1375c6a3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get 15% Off'])[1]/following::button[1]</value>
+      <webElementGuid>16261dc7-3d24-482a-a8d1-a5c20b261279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='your order'])[1]/following::button[2]</value>
+      <webElementGuid>dbf37789-0fea-49f9-b6c0-9ad26cdfbb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('On trend ', &quot;'&quot;, 'fits')])[1]/preceding::button[1]</value>
+      <webElementGuid>ed77d854-4afe-4bf8-b073-61a18ea0f7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='your Windsor order'])[1]/preceding::button[1]</value>
+      <webElementGuid>90c0345f-ee63-47af-8170-9ca80253d248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Decline Offer']/parent::*</value>
+      <webElementGuid>574010e6-ebf9-42d3-ad1a-736dbaf71e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>de4242ea-dc65-4878-a153-dada5ad4db2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'reset' and (text() = 'Decline Offer' or . = 'Decline Offer')]</value>
+      <webElementGuid>1cb32242-1570-4b57-8945-912b556c2bf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

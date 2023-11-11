@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lc_desktop_announcement_bar_2</name>
+   <tag></tag>
+   <elementGuidId>a02bd5e7-828d-41e8-8e01-e26a5e6c9179</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='INF-Header-3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/GlobalE/Desktop/lc_desktop_announcement_bar</value>
+      <webElementGuid>f5b4575c-5f66-46d6-a4b1-5df2d9faed98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>18bb492a-4029-4967-9b00-f49904a4d1a2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

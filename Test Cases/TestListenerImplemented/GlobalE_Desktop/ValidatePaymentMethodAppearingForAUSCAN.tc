@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidatePaymentMethodAppearingForAUSCAN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c263807d-b6f5-4ca2-9596-091c934949fb</testCaseGuid>
+</TestCaseEntity>

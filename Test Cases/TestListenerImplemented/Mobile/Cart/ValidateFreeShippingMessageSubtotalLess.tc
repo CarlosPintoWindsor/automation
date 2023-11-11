@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateFreeShippingMessageSubtotalLess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7269f6f-fc1c-4a80-8e51-914f7022aba0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateFreeShippingMessageWhenSubtotalisGreater</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b05e7bc-2e1a-422a-84a9-6854eb16d1bf</testCaseGuid>
+</TestCaseEntity>

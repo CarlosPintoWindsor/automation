@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_M</name>
+   <tag></tag>
+   <elementGuidId>56f28893-0b6a-45eb-a5ff-bcf2ff60fba7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[contains(text(),'M')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>941671b2-cd19-4098-88a3-3fecf4d655d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ProductOption__variant ProductOption__variant--sizes</value>
+      <webElementGuid>09565a92-d016-4a22-9b83-d34132085a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>M</value>
+      <webElementGuid>8a26542e-c8aa-4b4f-8ed7-6c3828eb920d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>M
+          </value>
+      <webElementGuid>28eddb58-6de1-4729-bf37-8fd6a1f78ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;QuickView&quot;)/div[@class=&quot;Modal__content&quot;]/div[@class=&quot;QuickView__content&quot;]/div[@class=&quot;ProductGrid&quot;]/div[@class=&quot;ProductInfo&quot;]/form[@class=&quot;ProductInfo__form&quot;]/div[@class=&quot;ProductOptions&quot;]/div[@class=&quot;ProductOption&quot;]/ul[@class=&quot;ProductOption__variants 
+        ProductOption__variants--list 
+        ProductOption__variants--flex&quot;]/li[@class=&quot;ProductOption__variant ProductOption__variant--sizes&quot;]</value>
+      <webElementGuid>5ca404a1-4040-4293-a8ee-40f0a2fc0ee2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateSignInFunctionalityHomepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37aef00a-4e92-4330-bfee-ddbcca5b22ce</testCaseGuid>
+</TestCaseEntity>

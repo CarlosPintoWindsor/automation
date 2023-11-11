@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>myaccount_signin_btn</name>
+   <tag></tag>
+   <elementGuidId>aacab94f-6af2-4b5e-a0d4-e29e3c95a278</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/main[@id='MainContent']/div[@id='shopify-section-INF-LoginPage']/div[@id='CustomerLoginForm']/section[@id='sectionINF-LoginPage']/div[1]/div[1]/div[1]/form[1]/div[4]/input[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

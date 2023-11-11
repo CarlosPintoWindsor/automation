@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>quickshopbutton</name>
+   <tag></tag>
+   <elementGuidId>58d424bb-99e0-4043-b99b-682bdbe350f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/main[@id='MainContent']/section[@id='SearchResults']/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/div[2]/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

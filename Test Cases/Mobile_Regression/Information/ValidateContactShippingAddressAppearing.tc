@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateContactShippingAddressAppearing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c4209b0-93e0-43df-b430-3eef355ad222</testCaseGuid>
+</TestCaseEntity>

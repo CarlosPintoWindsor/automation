@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_SHIP TO_icon icon-caret</name>
+   <tag></tag>
+   <elementGuidId>224118c7-d5e5-43a5-9e27-af6494d99ee5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.icon.icon-caret</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='SHIP TO:'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>8a89cfc1-20f4-43b6-816b-2634b02805b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5c8d668f-b759-4f3b-9ea0-ed5990c92fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>aff38016-0234-42a2-a74b-5ac2213c4702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>23da5d0d-eefc-463f-908c-83c88d631f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-caret</value>
+      <webElementGuid>f4b886c9-af30-4b59-98a5-3f8934b4644d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 10 6</value>
+      <webElementGuid>a36f1f41-6c08-4374-9720-0dec65dbe346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>35b1d193-3244-4bcc-85b5-d223676721ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>disabled</value>
+      <webElementGuid>51bb9a37-329d-4032-bf34-44094a98f842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clickable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f9a197d7-3b4b-4522-b228-385acdc61ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-INF-Header&quot;)/div[@class=&quot;Headroom--disabled Headroom--disabled-mobile&quot;]/div[@class=&quot;PreHeader   Section Section--relative Section--full&quot;]/div[@class=&quot;Section__container&quot;]/div[@class=&quot;PreHeader__menu&quot;]/div[@class=&quot;CountryList&quot;]/form[@id=&quot;localization_form&quot;]/div[@class=&quot;CountryList__wrapper&quot;]/button[@class=&quot;CountryList__button&quot;]/svg[@class=&quot;icon icon-caret&quot;]</value>
+      <webElementGuid>599618c7-5396-44fa-a542-3a62442b0424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHIP TO:'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>332c9a25-9da4-41a6-af30-b4c36ad190da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store Locations'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d76ac9ec-cedd-468c-b620-dd084210e84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Country &amp; Currency'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a6ecedb7-30cb-4368-ab2c-fe0777a0a452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Big | 60% Off Sale Styles!'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>674d8334-9d84-460b-ac5c-2efd1dde8159</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

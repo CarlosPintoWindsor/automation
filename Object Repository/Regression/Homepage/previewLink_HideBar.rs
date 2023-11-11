@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>previewLink_HideBar</name>
+   <tag></tag>
+   <elementGuidId>82cae8e9-13a5-4dae-b2b1-561429e2c61e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='admin-bar']//button[contains(text(),'Hide')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Regression/Homepage/preview_link</value>
+      <webElementGuid>3e17896a-198e-4c50-838c-66fe4b73b444</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
